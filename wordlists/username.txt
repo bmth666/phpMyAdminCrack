@@ -1,0 +1,7 @@
+root
+mysql
+admin
+test
+administrator
+guest
+dbuser

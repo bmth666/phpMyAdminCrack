@@ -1,0 +1,7 @@
+/pma/
+/phpMyAdmin4.8.5/
+/phpMyAdmin/
+/phpmyadmin/
+/phpmydb/
+/mysqladmin/
+/phpmasmu/
